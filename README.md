@@ -27,12 +27,12 @@ The analysis uses 12 monthly Divvy trip-data CSV files covering January–Decemb
 |---|---|
 | Analysis period | January–December 2025 |
 | Total recorded trips | 5,552,994 |
-| Total columns | 21 |
+| Processed annual dataset columns | 21 |
 | Member trips | 3,553,497 |
 | Casual trips | 1,999,497 |
 | Data granularity | Individual trip records |
 
-**Data source:** [Divvy Public Trip Data](https://divvybikes-marketing.lyft.net/system-data)
+**Data source:** [Divvy Public Trip Data](https://divvybikes-marketing.lyft.net/system-data), provided by Divvy/Lyft.
 
 The data contains trip identifiers, bike types, start and end timestamps, station information, coordinates, and rider categories.
 
@@ -253,9 +253,13 @@ To reproduce the analysis:
 pip install pandas pyarrow duckdb matplotlib jupyter
 ```
 
-4. Run `01_process_cyclistic_data.ipynb` to clean, validate, and combine the monthly datasets.
-5. Run `02_analyze_cyclistic_data.ipynb` to perform exploratory analysis and SQL business analysis.
-6. Use the Tableau-ready CSV files in `outputs/` for visualization.
+
+4. Run `01_process_cyclistic_data.ipynb` first. This notebook processes the 12 monthly CSV files, validates the records, and generates the annual dataset at `data/cleaned/cyclistic_2025_annual.parquet`.
+
+5. Run `02_analyze_cyclistic_data.ipynb` after the processing notebook has completed successfully. It loads the annual Parquet dataset and performs exploratory and business analysis.
+
+6. Use the five Tableau-ready summary CSV files in `outputs/` to explore the aggregated results and build or refresh the visualizations in Tableau.
+
 
 **Note:** The raw monthly CSV files and cleaned annual Parquet dataset are intentionally excluded from this GitHub repository because of their size. Download the original data separately before running the notebooks. The source data is subject to the provider's Data License Agreement.
 
