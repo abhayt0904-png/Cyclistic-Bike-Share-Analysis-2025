@@ -1,0 +1,15 @@
+day_of_week,member_casual,ride_count,weekday_rider_share
+Monday,casual,228253,31.22
+Monday,member,502767,68.78
+Tuesday,casual,225586,28.6
+Tuesday,member,563070,71.4
+Wednesday,casual,221538,28.71
+Wednesday,member,550154,71.29
+Thursday,casual,258045,30.94
+Thursday,member,576005,69.06
+Friday,casual,320077,37.7
+Friday,member,528989,62.3
+Saturday,casual,414206,47.92
+Saturday,member,450199,52.08
+Sunday,casual,331792,46.46
+Sunday,member,382313,53.54

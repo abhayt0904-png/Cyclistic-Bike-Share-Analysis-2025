@@ -1,0 +1,21 @@
+end_station_id,end_station_name,rider_type,trip_count,total_trips,rider_share_pct,rank
+CHI00299,Kingsbury St & Kinzie St,member,20482.0,26805,76.411117,1
+CHI00509,Clinton St & Washington Blvd,member,16298.0,20315,80.226434,2
+CHI00233,Clinton St & Madison St,member,14776.0,19521,75.692844,3
+CHI00281,Clark St & Elm St,member,14456.0,20704,69.822257,4
+CHI00498,Canal St & Madison St,member,14189.0,19445,72.969915,5
+CHI01772,State St & Chicago Ave,member,13530.0,18646,72.56248,6
+CHI00396,Wells St & Concord Ln,member,13197.0,20185,65.380233,7
+CHI00540,Wells St & Elm St,member,12906.0,18745,68.85036,8
+CHI00294,Wells St & Huron St,member,12281.0,17406,70.55613,9
+CHI01091,Clinton St & Jackson Blvd,member,11623.0,15714,73.96589,10
+CHI01747,Navy Pier,casual,28025.0,34777,80.584869,1
+CHI00374,DuSable Lake Shore Dr & Monroe St,casual,22942.0,29844,76.873073,2
+CHI00252,Michigan Ave & Oak St,casual,18733.0,28044,66.798602,3
+CHI00525,DuSable Lake Shore Dr & North Blvd,casual,18262.0,28758,63.50233,4
+CHI01747,Streeter Dr & Grand Ave,casual,15588.0,18650,83.581769,5
+CHI01742,Millennium Park,casual,15491.0,20998,73.773693,6
+CHI00420,Theater on the Lake,casual,14317.0,23083,62.024,7
+CHI00533,Shedd Aquarium,casual,11336.0,14675,77.247019,8
+CHI00531,Dusable Harbor,casual,10409.0,15794,65.904774,9
+13022,Streeter Dr & Grand Ave,casual,8930.0,11275,79.201774,10
