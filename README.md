@@ -180,14 +180,18 @@ Navy Pier is a potential starting location. Test QR codes, digital signage, and 
 
 ![Cyclistic Bike-Share Analysis Final Dashboard](visualizations/07_Final_Dashboard.png)
 
+
+
 ### Individual Visualizations
 
-1. [Overall Trip Share](visualizations/01_Overall%20Trip%20Share.png)
-2. [Rider Composition by Week](visualizations/02_Rider%20Composition%20by%20Week.png)
-3. [Monthly Rider Share](visualizations/03_Monthly%20Rider%20Share.png)
-4. [Ride Duration Distribution](visualizations/04_Ride%20Duration%20Distribution.png)
-5. [Top Start Stations](visualizations/05_Top%20Start%20Stations.png)
-6. [Top End Stations](visualizations/06_Top%20End%20Stations.png)
+1. [Overall Trip Share](visualizations/01_%20Overall%20Trip%20Share.png)
+2. [Rider Composition by Week](visualizations/02_%20Rider%20Composition%20by%20Week.png)
+3. [Monthly Rider Share](visualizations/03_%20Monthly%20Rider%20Share.png)
+4. [Ride Duration Distribution](visualizations/04_%20Ride%20Duration%20Distribution.png)
+5. [Top Start Stations](visualizations/05_%20Top%20Start%20Stations.png)
+6. [Top End Stations](visualizations/06_%20Top%20End%20Stations.png)
+
+
 
 **[Explore the Interactive Tableau Dashboard](https://public.tableau.com/views/CyclisticBike-ShareAnalysis2025MembervsCasualRiders/CyclisticBike-ShareAnalysisMembervsCasualRiders?:language=en-US&publish=yes)**
 
