@@ -53,7 +53,7 @@ The dataset does not contain individual customer identifiers. Therefore, the fin
 
 ### Phase 1: Data Processing and Cleaning
 
-**Notebook:** `01_process_cyclistic_data.ipynb`
+**Notebook:** [01_process_cyclistic_data.ipynb](notebooks/01_process_cyclistic_data.ipynb)
 
 - Imported and processed all 12 monthly datasets.
 - Standardized data types and timestamp fields.
@@ -71,7 +71,7 @@ Unusual observations were flagged and documented rather than automatically delet
 
 ### Phase 2: Exploratory and Business Analysis
 
-**Notebook:** `02_analyze_cyclistic_data.ipynb`
+**Notebook:** [02_analyze_cyclistic_data.ipynb](notebooks/02_analyze_cyclistic_data.ipynb)
 
 The analysis examined:
 
