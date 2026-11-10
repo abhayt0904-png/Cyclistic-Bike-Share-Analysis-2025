@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Cyclistic original and processed datasets
+data/raw/
+data/cleaned/
+*.parquet
+
+# Large Tableau ride-level export
+outputs/tableau_duration.csv
+
